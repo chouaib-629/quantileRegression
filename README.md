@@ -50,7 +50,7 @@ To get started with this project, follow these steps:
 3. Install the required dependencies using pip:
 
     ```bash
-    pip install notebook numpy matplotlib scikit-learn statsmodels scipy
+    pip install numpy matplotlib scikit-learn statsmodels scipy
     ```
 
 ## Usage
